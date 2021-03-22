@@ -1,0 +1,8 @@
+<!-- This file is used by Multimedia Daemon Service (YaJun.li).  DO NOT MODIFY. -->
+<permissions>
+    <!-- OPLUS_FEATURE_VOICE_CHANGER START -->
+    <feature name="oppo.gamespace.voicechange.support" />
+    <!-- OPLUS_FEATURE_VOICE_CHANGER END -->
+    <feature name="oppo.multimedia.record.channel.support" />
+    <feature name="oppo.multimedia.internal.record" />
+</permissions>
